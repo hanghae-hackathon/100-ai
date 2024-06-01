@@ -31,3 +31,4 @@ transcribed_text = transcribe_audio_to_text(mp3_file_name)
 # 텍스트 출력
 print(f'"{transcribed_text}"')  # 내용 출력
 
+
